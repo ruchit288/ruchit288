@@ -1,6 +1,6 @@
 ### Ruchit Patel 👨‍🚀
 
-👨‍💻 Software Engineer by profession.
+🔭 💻 Laravel Team Lead at [ViitorCloud Technologies Pvt. Ltd](https://viitor.cloud)
 
 ⚡ Fun fact: 👨‍🍳 Chef at home and 🔭 Astronomy as a hobbies.
 
