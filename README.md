@@ -1,4 +1,10 @@
-### Hi there 👋
+### Ruchit Patel 👨‍🚀
+
+👨‍💻 Software Engineer by profession.
+
+⚡ Fun fact: 👨‍🍳 Chef at home and 🔭 Astronomy as a hobbies.
+
+
 
 <!--
 **ruchit288/ruchit288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
