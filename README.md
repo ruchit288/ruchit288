@@ -2,7 +2,7 @@
 
 🔭 💻 Laravel Team Lead at [ViitorCloud Technologies Pvt. Ltd](https://viitor.cloud)
 
-⚡ Fun fact: 👨‍🍳 Chef at home and 🔭 Astronomy as a hobbies.
+⚡ Fun fact: 👨‍🍳 Chef at 🏠, 🔭 Astronomy and 🧳 Travelling as a hobbies.
 
 
 
