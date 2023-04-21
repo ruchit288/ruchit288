@@ -4,6 +4,11 @@
 
 ⚡ Fun fact: 👨‍🍳 Chef at 🏠, 🔭 Astronomy and 🧳 Travelling as a hobbies.
 
+**My Skills :**
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,aws,mysql,electron,redis,)](https://skillicons.dev)
+
+![Ruchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruchit288&theme=dark&show_icons=true)
 
 
 <!--
