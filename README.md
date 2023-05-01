@@ -1,6 +1,6 @@
 ### Ruchit Patel 👨‍🚀
 
-🔭 💻 Laravel Team Lead at [ViitorCloud Technologies Pvt. Ltd](https://viitor.cloud)
+🔭 💻 Laravel Team Lead at [ViitorCloud Technologies Pvt. Ltd](https://viitorcloud.com)
 
 ⚡ Fun fact: 👨‍🍳 Chef at 🏠, 🔭 Astronomy and 🧳 Travelling as a hobbies.
 
